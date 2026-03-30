@@ -2,10 +2,13 @@
 title: OpenVINO
 author: vraspar
 created: '2026-03-30T22:26:54.688Z'
-updated: '2026-03-30T22:26:54.688Z'
+updated: '2026-03-30T22:55:33.332Z'
 tags:
-  - bash
+  - openvino
   - olive
+  - quantization
+  - inference
+  - deployment
 type: guide
 status: active
 source_repo: olive
