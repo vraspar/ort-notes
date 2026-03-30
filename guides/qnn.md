@@ -2,11 +2,13 @@
 title: QNN
 author: vraspar
 created: '2026-03-30T22:26:54.692Z'
-updated: '2026-03-30T22:26:54.692Z'
+updated: '2026-03-30T22:55:37.137Z'
 tags:
-  - bash
-  - python
+  - qnn
+  - qualcomm
   - olive
+  - mobile
+  - optimization
 type: guide
 status: active
 source_repo: olive
