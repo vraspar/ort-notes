@@ -2,10 +2,12 @@
 title: Download Options for ONNX Runtime GenAI Models
 author: vraspar
 created: '2026-03-30T22:37:04.047Z'
-updated: '2026-03-30T22:37:04.047Z'
+updated: '2026-03-30T22:56:18.358Z'
 tags:
-  - linux
-  - ort-genai
+  - genai
+  - model-download
+  - onnxruntime
+  - llm
 type: guide
 status: active
 source_repo: onnxruntime-genai
