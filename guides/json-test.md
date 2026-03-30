@@ -2,9 +2,10 @@
 title: JSON Test
 author: vraspar
 created: '2026-03-30T22:29:14.610Z'
-updated: '2026-03-30T22:29:14.610Z'
+updated: '2026-03-30T22:40:02.073Z'
 tags:
-  - docker
+  - mcp
+  - updated
 type: guide
 status: active
 ---
