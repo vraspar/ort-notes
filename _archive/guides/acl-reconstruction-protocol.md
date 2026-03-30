@@ -6,7 +6,9 @@ updated: '2026-03-30T22:26:40.434Z'
 tags:
   - surgery knee
 type: guide
-status: active
+status: archived
+archived_at: '2026-03-30T22:50:58.362Z'
+archived_reason: retracted
 ---
 # ACL Reconstruction Protocol
 
@@ -21,6 +23,3 @@ status: active
 
 ## Docker Container Setup for Research DB
 Use Docker to run the orthopedic research database locally.
----
-<!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[unreachable-json-test|Unreachable JSON Test]], [[json-test|JSON Test]]
