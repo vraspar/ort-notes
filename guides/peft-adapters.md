@@ -2,9 +2,13 @@
 title: PEFT Adapters
 author: vraspar
 created: '2026-03-30T22:26:54.706Z'
-updated: '2026-03-30T22:26:54.706Z'
+updated: '2026-03-30T22:55:54.670Z'
 tags:
+  - lora
+  - fine-tuning
   - olive
+  - adapters
+  - optimization
 type: guide
 status: active
 source_repo: olive
