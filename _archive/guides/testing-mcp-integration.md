@@ -10,8 +10,10 @@ tags:
   - qa
   - updated
 type: guide
-status: active
+status: archived
 summary: Updated via MCP update_entry tool
+archived_at: '2026-03-30T22:51:25.925Z'
+archived_reason: retracted
 ---
 # MCP Integration Testing
 
