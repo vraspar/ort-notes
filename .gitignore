@@ -1,0 +1,11 @@
+# Brain local cache
+*.db
+*.db-wal
+*.db-shm
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace (local only)
+.obsidian/
