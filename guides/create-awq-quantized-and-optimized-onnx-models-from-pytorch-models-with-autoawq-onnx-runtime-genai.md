@@ -4,12 +4,13 @@ title: >-
   AutoAWQ + ONNX Runtime GenAI
 author: vraspar
 created: '2026-03-30T22:37:04.060Z'
-updated: '2026-03-30T22:37:04.060Z'
+updated: '2026-03-30T22:55:40.847Z'
 tags:
-  - python
-  - bash
-  - git
-  - ort-genai
+  - awq
+  - quantization
+  - genai
+  - pytorch
+  - optimization
 type: guide
 status: active
 source_repo: onnxruntime-genai
