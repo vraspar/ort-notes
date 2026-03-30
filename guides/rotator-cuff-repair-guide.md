@@ -2,9 +2,10 @@
 title: Rotator Cuff Repair Guide
 author: vraspar
 created: '2026-03-30T22:26:38.585Z'
-updated: '2026-03-30T22:26:38.585Z'
+updated: '2026-03-30T22:28:08.566Z'
 tags:
   - surgery shoulder
+  - orthopedics
 type: guide
 status: active
 ---
@@ -22,3 +23,6 @@ The rotator cuff is a group of four muscles and tendons that stabilize the shoul
 - Success rate: 85-95% for small tears
 - Recovery time: 4-6 months
 - Complications: re-tear (5-15%), stiffness, infection
+---
+<!-- brain:links (auto-generated, do not edit) -->
+**Related:** [[overview|Overview]]
