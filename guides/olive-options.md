@@ -475,4 +475,4 @@ Note that if `max_samples` is set to zero, each of the below sampler will be exh
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-design|Olive Design]], [[quantization|Quantization]], [[onnx|ONNX]], [[qnn|QNN]], [[how-to-install-olive|How To Install Olive]]
+**Related:** [[olive-design|Olive Design]], [[how-to-install-olive|How To Install Olive]], [[how-to-define-host-or-target-systems|How to Define `host` or `target` Systems]], [[quantization|Quantization]], [[onnx|ONNX]]

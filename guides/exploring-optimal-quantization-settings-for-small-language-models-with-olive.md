@@ -111,4 +111,4 @@ This experiment showed that Olive can be used to explore and compare different q
 Next, we are extending Olive’s quantization capabilities to include smarter mixed precision strategies. These will automatically analyze layer sensitivity to determine which layers benefit most from higher precision. This approach will reduce the need for manual configuration while maintaining accuracy and efficiency across a wider range of models.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[quantization|Quantization]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[overview|Overview]], [[onnx|ONNX]], [[olive-options|Olive Options]]
+**Related:** [[quantization|Quantization]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[olive-options|Olive Options]], [[overview|Overview]], [[onnx|ONNX]]

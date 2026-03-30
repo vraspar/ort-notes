@@ -79,4 +79,4 @@ extending/custom-scripts
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-reference-index|reference index]], [[how-to-install-olive|How To Install Olive]], [[how-to-add-a-new-pass|How to Add a New Pass]], [[olive-design|Olive Design]], [[how-to-add-custom-scripts-to-load-datasets|How to Add Custom Scripts to Load Datasets]]
+**Related:** [[olive-reference-index|reference index]], [[how-to-add-a-new-pass|How to Add a New Pass]], [[olive-design|Olive Design]], [[how-to-add-custom-scripts-to-load-datasets|How to Add Custom Scripts to Load Datasets]], [[how-to-add-custom-model-evaluator|How to Add Custom Model Evaluator]]

@@ -2154,4 +2154,4 @@ for an example implementation of `"user_script.py"` and `"calib_data_config/data
 [3]: <https://onnxruntime.ai/docs/performance/quantization.html#static-quantization> "Static Quantization"
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[onnx|ONNX]], [[quantization|Quantization]], [[olive-options|Olive Options]], [[how-to-add-a-new-task-or-diffusers-component-for-onnx-export|How to Add a New Task or Diffusers Component for ONNX Export]]
+**Related:** [[onnx|ONNX]], [[quantization|Quantization]], [[memory-optimizer-for-onnx-runtime-training|Memory Optimizer for ONNX Runtime Training]], [[olive-options|Olive Options]], [[how-to-add-a-new-task-or-diffusers-component-for-onnx-export|How to Add a New Task or Diffusers Component for ONNX Export]]

@@ -51,4 +51,4 @@ Here is an example of how to configure the `OnnxQuantization` Pass:
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-how-to-index|how to index]], [[quantization|Quantization]], [[onnx|ONNX]], [[how-to-add-a-new-pass|How to Add a New Pass]]
+**Related:** [[how-to-add-a-new-pass|How to Add a New Pass]], [[olive-how-to-index|how to index]], [[quantization|Quantization]], [[onnx|ONNX]]

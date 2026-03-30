@@ -52,4 +52,4 @@ This command will quantize weights into int4 precision before converting the mod
 See `olive optimize` [reference](../../reference/python_api.md#optimize) for the complete list of supported options by this command.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[how-to-use-finetune-command|How To use `finetune` Command]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[qnn|QNN]], [[how-to-use-quantize-command|How To Use `quantize` Command]], [[olive-getting-started-getting-started|Getting started]]
+**Related:** [[how-to-use-finetune-command|How To use `finetune` Command]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[how-to-use-quantize-command|How To Use `quantize` Command]], [[shared-cache|Shared Cache]], [[olive-getting-started-getting-started|Getting started]]

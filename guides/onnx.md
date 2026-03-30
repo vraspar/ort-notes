@@ -158,4 +158,4 @@ Note: The `input_dim` and `dim_value` should have the same length, and the `inpu
 More details about the pass and its config parameters can be found [here](https://onnxruntime.ai/docs/tutorials/mobile/helpers/make-dynamic-shape-fixed.html).
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[onnx-transformations|ONNX Transformations]], [[qnn|QNN]], [[olive-options|Olive Options]], [[how-to-add-a-new-task-or-diffusers-component-for-onnx-export|How to Add a New Task or Diffusers Component for ONNX Export]], [[quantization|Quantization]]
+**Related:** [[onnx-transformations|ONNX Transformations]], [[olive-options|Olive Options]], [[how-to-add-a-new-task-or-diffusers-component-for-onnx-export|How to Add a New Task or Diffusers Component for ONNX Export]], [[quantization|Quantization]], [[qnn|QNN]]

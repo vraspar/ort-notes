@@ -139,4 +139,4 @@ for the new pass with relevant info.
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-how-to-index|how to index]], [[quantization|Quantization]], [[onnx|ONNX]], [[python-interface|Python Interface]], [[olive-options|Olive Options]]
+**Related:** [[olive-how-to-index|how to index]], [[how-to-customize-a-pass-parameters|How to Customize a Pass Parameters]], [[python-interface|Python Interface]], [[olive-options|Olive Options]], [[quantization|Quantization]]

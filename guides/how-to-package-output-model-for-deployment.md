@@ -181,4 +181,4 @@ The model configuration file is a json file including the history of applied Pas
 The metrics file is a json file including input model metrics and output model metrics.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-how-to-index|how to index]], [[quantization|Quantization]], [[onnx|ONNX]], [[olive-options|Olive Options]], [[olive-design|Olive Design]]
+**Related:** [[olive-how-to-index|how to index]], [[olive-options|Olive Options]], [[olive-design|Olive Design]], [[package|PACKAGE]], [[quantization|Quantization]]

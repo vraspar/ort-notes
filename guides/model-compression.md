@@ -55,4 +55,4 @@ This pass only supports HuggingFace transformer PyTorch models. Please refer to 
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[overview|Overview]], [[how-to-use-quantize-command|How To Use `quantize` Command]], [[quantization|Quantization]], [[pytorch|PyTorch]], [[openvino|OpenVINO]]
+**Related:** [[overview|Overview]], [[how-to-use-quantize-command|How To Use `quantize` Command]], [[quantization|Quantization]], [[openvino|OpenVINO]], [[pytorch|PyTorch]]

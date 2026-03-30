@@ -48,4 +48,4 @@ Olive executes a *workflow*, which is an ordered sequence of individual model op
 [{octicon}`arrow-right;1em;sd-text-info` Getting started](getting-started/getting-started.md)
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-source-index|source index]], [[olive-getting-started-getting-started|Getting started]], [[shared-cache|Shared Cache]], [[olive-how-to-index|how to index]], [[quantization|Quantization]]
+**Related:** [[olive-source-index|source index]], [[olive-getting-started-getting-started|Getting started]], [[shared-cache|Shared Cache]], [[olive-how-to-index|how to index]], [[pytorch|PyTorch]]

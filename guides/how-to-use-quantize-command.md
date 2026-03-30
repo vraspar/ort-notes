@@ -123,4 +123,4 @@ Once the automatic optimizer has successfully completed, you'll have:
 Find more details about how to configure data [here](../configure-workflows/how-to-configure-data.md).
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[how-to-use-optimize-command|How To Use `optimize` Command]], [[how-to-use-finetune-command|How To use `finetune` Command]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[quantization|Quantization]], [[pytorch|PyTorch]]
+**Related:** [[how-to-use-optimize-command|How To Use `optimize` Command]], [[how-to-use-finetune-command|How To use `finetune` Command]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[model-compression|Model Compression]], [[quantization|Quantization]]

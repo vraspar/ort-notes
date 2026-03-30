@@ -21,3 +21,6 @@ The rotator cuff is a group of four muscles and tendons that stabilize the shoul
 - Success rate: 85-95% for small tears
 - Recovery time: 4-6 months
 - Complications: re-tear (5-15%), stiffness, infection
+---
+<!-- brain:links (auto-generated, do not edit) -->
+**Related:** [[unreachable-json-test|Unreachable JSON Test]], [[json-test|JSON Test]], [[rotator-cuff-repair-guide|Rotator Cuff Repair Guide]], [[overview|Overview]]

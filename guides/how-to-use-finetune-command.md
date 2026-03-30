@@ -77,4 +77,4 @@ Multi-LoRA serving versus single-LoRA serving
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[how-to-use-optimize-command|How To Use `optimize` Command]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[how-to-use-quantize-command|How To Use `quantize` Command]], [[olive-getting-started-getting-started|Getting started]], [[pytorch|PyTorch]]
+**Related:** [[how-to-use-optimize-command|How To Use `optimize` Command]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[how-to-use-quantize-command|How To Use `quantize` Command]], [[olive-getting-started-getting-started|Getting started]], [[getting-started|Getting Started with Brain]]

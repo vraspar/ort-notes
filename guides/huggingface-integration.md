@@ -165,4 +165,4 @@ For certain gated models or datasets, you need to log in to your Huggingface acc
 For local system, docker system and Python environment system, please run command `huggingface-cli login` in your terminal to login your Huggingface account. Find more details about login [here](https://huggingface.co/docs/huggingface_hub/quick-start#login).
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[python-interface|Python Interface]], [[olive-options|Olive Options]], [[olive-design|Olive Design]], [[how-to-define-host-or-target-systems|How to Define `host` or `target` Systems]], [[how-to-configure-olive-engine|How To Configure Olive Engine]]
+**Related:** [[how-to-define-host-or-target-systems|How to Define `host` or `target` Systems]], [[python-interface|Python Interface]], [[olive-options|Olive Options]], [[olive-design|Olive Design]], [[how-to-configure-olive-engine|How To Configure Olive Engine]]

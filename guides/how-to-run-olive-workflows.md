@@ -89,4 +89,4 @@ olive run --config quickstart-workflow.yaml
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[how-to-install-olive|How To Install Olive]], [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[olive-design-documentation|Olive Design Documentation]], [[quantization|Quantization]]
+**Related:** [[how-to-install-olive|How To Install Olive]], [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[olive-design-documentation|Olive Design Documentation]], [[olive-design|Olive Design]]

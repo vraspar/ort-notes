@@ -168,4 +168,4 @@ Please refer to [OpenVINOOptimumConversion](https://microsoft.github.io/Olive/re
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[olive-getting-started-getting-started|Getting started]], [[overview|Overview]], [[python-interface|Python Interface]]
+**Related:** [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[olive-getting-started-getting-started|Getting started]], [[python-interface|Python Interface]], [[model-compression|Model Compression]]

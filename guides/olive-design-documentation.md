@@ -390,4 +390,4 @@ run(config)
 where `config` is a path to the json config file or a config dictionary.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-design|Olive Design]], [[how-to-install-olive|How To Install Olive]], [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[python-interface|Python Interface]]
+**Related:** [[how-to-install-olive|How To Install Olive]], [[olive-design|Olive Design]], [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[python-interface|Python Interface]]

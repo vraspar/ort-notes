@@ -105,4 +105,4 @@ The following sampling algorithms have been implemented:
 Each of the sampler can be used as an exhaustive search by setting the `max_samples` field to zero.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-design-documentation|Olive Design Documentation]], [[olive-options|Olive Options]], [[olive-how-to-index|how to index]], [[how-to-install-olive|How To Install Olive]], [[how-to-define-host-or-target-systems|How to Define `host` or `target` Systems]]
+**Related:** [[olive-options|Olive Options]], [[olive-design-documentation|Olive Design Documentation]], [[how-to-install-olive|How To Install Olive]], [[how-to-define-host-or-target-systems|How to Define `host` or `target` Systems]], [[olive-how-to-index|how to index]]

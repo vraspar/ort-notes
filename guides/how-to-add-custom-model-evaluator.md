@@ -98,4 +98,4 @@ return flatten_metric_result(final_metric_results)
 `LMEvaluator` in (olive_evaluator.py)[https://github.com/microsoft/Olive/blob/main/olive/evaluator/olive_evaluator.py#L1068] is a good example that demonstrate evaluating a HuggingFace model using (`lm_eval`)[https://github.com/EleutherAI/lm-evaluation-harness] harness.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-how-to-index|how to index]], [[how-to-add-custom-scripts-to-load-datasets|How to Add Custom Scripts to Load Datasets]], [[how-to-setup-custom-dataset-for-calibration-and-evaluation|How to Setup Custom Dataset for Calibration and Evaluation]], [[diffusion-model-lora-training|Diffusion Model LoRA Training]], [[python-interface|Python Interface]]
+**Related:** [[how-to-add-custom-scripts-to-load-datasets|How to Add Custom Scripts to Load Datasets]], [[how-to-setup-custom-dataset-for-calibration-and-evaluation|How to Setup Custom Dataset for Calibration and Evaluation]], [[diffusion-model-lora-training|Diffusion Model LoRA Training]], [[olive-how-to-index|how to index]], [[python-interface|Python Interface]]

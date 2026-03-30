@@ -150,4 +150,4 @@ The docker system is configured with the following attributes:
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-how-to-index|how to index]], [[olive-options|Olive Options]], [[olive-design|Olive Design]], [[how-to-define-evaluation-metrics|How to Define Evaluation Metrics]], [[huggingface-integration|Huggingface Integration]]
+**Related:** [[olive-options|Olive Options]], [[olive-design|Olive Design]], [[how-to-define-evaluation-metrics|How to Define Evaluation Metrics]], [[huggingface-integration|Huggingface Integration]], [[olive-how-to-index|how to index]]

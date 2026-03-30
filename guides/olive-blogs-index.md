@@ -34,4 +34,4 @@ sd-lora.md
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[quantization|Quantization]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[olive-reference-index|reference index]], [[olive-source-index|source index]], [[olive-how-to-index|how to index]]
+**Related:** [[olive-source-index|source index]], [[olive-reference-index|reference index]], [[olive-how-to-index|how to index]], [[quantization|Quantization]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]]

@@ -106,4 +106,4 @@ You can additionally select output directory, log severity level etc,. See [opti
 Olive provides additional opportunity to configure system, data, evaluation metrics and more. See [How to customize configuration](#how-to-customize-configuration).
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[qnn|QNN]], [[how-to-install-olive|How To Install Olive]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[olive-design-documentation|Olive Design Documentation]], [[python-interface|Python Interface]]
+**Related:** [[how-to-install-olive|How To Install Olive]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[olive-design-documentation|Olive Design Documentation]], [[qnn|QNN]], [[python-interface|Python Interface]]

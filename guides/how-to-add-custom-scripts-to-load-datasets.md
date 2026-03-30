@@ -142,4 +142,4 @@ Use `script_dir` and `my_script.py` with Olive workflow configuration json file:
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-how-to-index|how to index]], [[how-to-add-custom-model-evaluator|How to Add Custom Model Evaluator]], [[how-to-setup-custom-dataset-for-calibration-and-evaluation|How to Setup Custom Dataset for Calibration and Evaluation]], [[quantization|Quantization]], [[openvino|OpenVINO]]
+**Related:** [[how-to-add-custom-model-evaluator|How to Add Custom Model Evaluator]], [[how-to-setup-custom-dataset-for-calibration-and-evaluation|How to Setup Custom Dataset for Calibration and Evaluation]], [[olive-how-to-index|how to index]], [[quantization|Quantization]], [[openvino|OpenVINO]]

@@ -44,4 +44,4 @@ blogs/index
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[overview|Overview]], [[quantization|Quantization]], [[onnx|ONNX]], [[python-interface|Python Interface]], [[olive-reference-index|reference index]]
+**Related:** [[overview|Overview]], [[shared-cache|Shared Cache]], [[olive-blogs-index|blogs index]], [[python-interface|Python Interface]], [[olive-reference-index|reference index]]

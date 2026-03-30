@@ -344,4 +344,4 @@ Configurations:
 Please refer to [AimetQuantization](aimet_quantization) for more details about the pass and its config parameters.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[qnn|QNN]], [[olive-options|Olive Options]], [[onnx-transformations|ONNX Transformations]], [[onnx|ONNX]], [[exploring-optimal-quantization-settings-for-small-language-models-with-olive|Exploring Optimal Quantization Settings for Small Language Models with Olive]]
+**Related:** [[olive-options|Olive Options]], [[onnx-transformations|ONNX Transformations]], [[onnx|ONNX]], [[exploring-optimal-quantization-settings-for-small-language-models-with-olive|Exploring Optimal Quantization Settings for Small Language Models with Olive]], [[model-compression|Model Compression]]

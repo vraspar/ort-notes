@@ -57,4 +57,4 @@ olive auto-opt \
 With the `auto-opt` command, you can change the input model to one that is available on Hugging Face - for example, to [HuggingFaceTB/SmolLM-360M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM-360M-Instruct) - or a model that resides on local disk. Olive, will go through the same process of *automatically* converting (to ONNX), optimizing the graph and quantizing the weights. The model can be optimized for different providers and devices - for example, you can choose DirectML (for Windows) as the provider and target either the NPU, GPU, or CPU device.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[how-to-use-optimize-command|How To Use `optimize` Command]], [[how-to-use-finetune-command|How To use `finetune` Command]], [[olive-getting-started-getting-started|Getting started]], [[qnn|QNN]], [[openvino|OpenVINO]]
+**Related:** [[how-to-use-optimize-command|How To Use `optimize` Command]], [[how-to-use-finetune-command|How To use `finetune` Command]], [[olive-getting-started-getting-started|Getting started]], [[how-to-use-quantize-command|How To Use `quantize` Command]], [[openvino|OpenVINO]]

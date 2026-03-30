@@ -144,4 +144,4 @@ If you have more than one metric, you need to specify `priority: {RANK}`, which 
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[olive-how-to-index|how to index]], [[how-to-define-host-or-target-systems|How to Define `host` or `target` Systems]], [[how-to-setup-custom-dataset-for-calibration-and-evaluation|How to Setup Custom Dataset for Calibration and Evaluation]], [[python-interface|Python Interface]], [[olive-options|Olive Options]]
+**Related:** [[how-to-define-host-or-target-systems|How to Define `host` or `target` Systems]], [[how-to-setup-custom-dataset-for-calibration-and-evaluation|How to Setup Custom Dataset for Calibration and Evaluation]], [[olive-how-to-index|how to index]], [[python-interface|Python Interface]], [[olive-options|Olive Options]]

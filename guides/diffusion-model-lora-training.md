@@ -576,4 +576,4 @@ pip install transformers>=4.30.0  # For BLIP-2 and Florence-2
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[how-to-install-olive|How To Install Olive]], [[how-to-add-custom-model-evaluator|How to Add Custom Model Evaluator]], [[how-to-setup-custom-dataset-for-calibration-and-evaluation|How to Setup Custom Dataset for Calibration and Evaluation]], [[how-to-write-new-olive-workflow|How To Write New Olive workflow]]
+**Related:** [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[how-to-add-custom-model-evaluator|How to Add Custom Model Evaluator]], [[how-to-install-olive|How To Install Olive]], [[how-to-setup-custom-dataset-for-calibration-and-evaluation|How to Setup Custom Dataset for Calibration and Evaluation]], [[how-to-write-new-olive-workflow|How To Write New Olive workflow]]

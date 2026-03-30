@@ -75,4 +75,4 @@ pip install -e .
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[olive-design-documentation|Olive Design Documentation]], [[olive-how-to-index|how to index]], [[olive-options|Olive Options]]
+**Related:** [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[fine-tuning-diffusion-models-with-olive|Fine-Tuning Diffusion Models with Olive]], [[olive-design-documentation|Olive Design Documentation]], [[olive-options|Olive Options]], [[olive-design|Olive Design]]

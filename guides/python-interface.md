@@ -361,4 +361,4 @@ from olive import ModelOutput
 - `get_inference_config()` - Get the model's inference configuration
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[how-to-use-python-interface|How to Use Python Interface]], [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[shared-cache|Shared Cache]], [[qnn|QNN]], [[olive-reference-index|reference index]]
+**Related:** [[how-to-use-python-interface|How to Use Python Interface]], [[olive-reference-index|reference index]], [[how-to-write-new-olive-workflow|How To Write New Olive workflow]], [[shared-cache|Shared Cache]], [[qnn|QNN]]

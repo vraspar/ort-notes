@@ -84,4 +84,4 @@ With the `optimize` command, you can change the input model to one that is avail
 - `provider` is the hardware provider of the device to inference the model on. For example, Nvidia CUDA (`CUDAExecutionProvider`), AMD (`MIGraphXExecutionProvider`, `ROCMExecutionProvider`), OpenVINO (`OpenVINOExecutionProvider`), Qualcomm (`QNNExecutionProvider`), Nvidia TensorRT (`TensorrtExecutionProvider`, `NvTensorRTRTXExecutionProvider`).
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[qnn|QNN]], [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[overview|Overview]], [[openvino|OpenVINO]], [[python-interface|Python Interface]]
+**Related:** [[how-to-use-auto-opt-command|How To Use `auto-opt` Command]], [[qnn|QNN]], [[overview|Overview]], [[openvino|OpenVINO]], [[python-interface|Python Interface]]
