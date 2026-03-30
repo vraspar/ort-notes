@@ -5,9 +5,7 @@ created: '2026-03-30T22:28:40.551Z'
 updated: '2026-03-30T22:28:40.551Z'
 tags: []
 type: guide
-status: archived
-archived_at: '2026-03-30T22:29:55.280Z'
-archived_reason: retracted
+status: active
 ---
 # Rotator Cuff Repair Guide
 
