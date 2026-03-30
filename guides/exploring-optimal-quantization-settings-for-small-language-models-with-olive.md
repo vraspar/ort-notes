@@ -2,9 +2,13 @@
 title: Exploring Optimal Quantization Settings for Small Language Models with Olive
 author: vraspar
 created: '2026-03-30T22:26:54.673Z'
-updated: '2026-03-30T22:26:54.673Z'
+updated: '2026-03-30T22:55:11.997Z'
 tags:
+  - quantization
+  - slm
   - olive
+  - optimization
+  - accuracy
 type: guide
 status: active
 source_repo: olive
