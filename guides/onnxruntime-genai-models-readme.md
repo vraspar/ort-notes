@@ -2,10 +2,12 @@
 title: models README
 author: vraspar
 created: '2026-03-30T22:37:04.096Z'
-updated: '2026-03-30T22:37:04.096Z'
+updated: '2026-03-30T22:56:06.394Z'
 tags:
-  - python
-  - ort-genai
+  - genai
+  - model-builder
+  - onnxruntime
+  - llm
 type: guide
 status: active
 source_repo: onnxruntime-genai
