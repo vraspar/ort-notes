@@ -2,10 +2,13 @@
 title: Overview
 author: vraspar
 created: '2026-03-30T22:26:54.784Z'
-updated: '2026-03-30T22:26:54.784Z'
+updated: '2026-03-30T22:55:19.365Z'
 tags:
-  - azure
   - olive
+  - optimization
+  - inference
+  - deployment
+  - azure
 type: guide
 status: active
 source_repo: olive
