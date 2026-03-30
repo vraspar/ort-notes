@@ -9,10 +9,12 @@ tags:
   - npm
   - ort
 type: guide
-status: active
+status: archived
 source_repo: onnxruntime
 source_path: docs/Model_Test.md
 source_content_hash: 67bdeb2c3a0d4faff8f24ad9a7a91a854ff7e4df5b5d5235873d0172fd3c0bec
+archived_at: '2026-03-30T22:52:19.888Z'
+archived_reason: retracted
 ---
 ONNX has a collection of standard tests. This document describes how to run these tests through a C++ program named 'onnx_test_runner' in this repo. You could also run these test through onnxruntime python binding, which would be much easier to setup, but, a bit harder to debug issues.
 
