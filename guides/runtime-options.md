@@ -2,10 +2,12 @@
 title: Runtime Options
 author: vraspar
 created: '2026-03-30T22:37:04.049Z'
-updated: '2026-03-30T22:37:04.049Z'
+updated: '2026-03-30T22:56:22.351Z'
 tags:
-  - api
-  - ort-genai
+  - genai
+  - inference
+  - onnxruntime
+  - configuration
 type: guide
 status: active
 source_repo: onnxruntime-genai
