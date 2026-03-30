@@ -7,7 +7,9 @@ tags:
   - mcp
   - updated
 type: guide
-status: active
+status: archived
+archived_at: '2026-03-30T22:40:05.156Z'
+archived_reason: retracted
 ---
 # ACL Reconstruction Protocol
 
