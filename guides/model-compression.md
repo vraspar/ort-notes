@@ -2,9 +2,13 @@
 title: Model Compression
 author: vraspar
 created: '2026-03-30T22:26:54.695Z'
-updated: '2026-03-30T22:26:54.695Z'
+updated: '2026-03-30T22:55:15.537Z'
 tags:
+  - quantization
+  - pruning
+  - compression
   - olive
+  - optimization
 type: guide
 status: active
 source_repo: olive
