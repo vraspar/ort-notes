@@ -2,10 +2,12 @@
 title: How To Use `quantize` Command
 author: vraspar
 created: '2026-03-30T22:26:54.724Z'
-updated: '2026-03-30T22:26:54.724Z'
+updated: '2026-03-30T22:55:07.688Z'
 tags:
-  - bash
+  - quantization
+  - cli
   - olive
+  - optimization
 type: guide
 status: active
 source_repo: olive
