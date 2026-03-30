@@ -2,10 +2,12 @@
 title: ONNX Transformations
 author: vraspar
 created: '2026-03-30T22:26:54.703Z'
-updated: '2026-03-30T22:26:54.703Z'
+updated: '2026-03-30T22:55:58.706Z'
 tags:
-  - node
+  - onnx
+  - graph-optimization
   - olive
+  - inference
 type: guide
 status: active
 source_repo: olive
