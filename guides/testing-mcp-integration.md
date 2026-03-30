@@ -2,17 +2,16 @@
 title: Testing MCP Integration
 author: vraspar
 created: '2026-03-30T22:49:09.153Z'
-updated: '2026-03-30T22:49:09.153Z'
+updated: '2026-03-30T22:51:22.875Z'
 tags:
   - mcp
   - testing
   - integration
   - qa
+  - updated
 type: guide
 status: active
-summary: >-
-  Verification that the Brain MCP server works correctly for AI agent
-  integration
+summary: Updated via MCP update_entry tool
 ---
 # MCP Integration Testing
 
