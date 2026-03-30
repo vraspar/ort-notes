@@ -2,13 +2,13 @@
 title: Python Interface
 author: vraspar
 created: '2026-03-30T22:26:54.782Z'
-updated: '2026-03-30T22:26:54.782Z'
+updated: '2026-03-30T22:55:29.252Z'
 tags:
-  - python
-  - api
-  - rest
-  - azure
   - olive
+  - api
+  - python
+  - optimization
+  - quantization
 type: guide
 status: active
 source_repo: olive
