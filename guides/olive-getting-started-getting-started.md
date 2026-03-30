@@ -2,13 +2,12 @@
 title: Getting started
 author: vraspar
 created: '2026-03-30T22:26:54.716Z'
-updated: '2026-03-30T22:26:54.716Z'
+updated: '2026-03-30T22:56:10.282Z'
 tags:
-  - python
-  - bash
-  - azure
-  - go
   - olive
+  - getting-started
+  - optimization
+  - deployment
 type: guide
 status: active
 source_repo: olive
