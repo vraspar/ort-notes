@@ -7,8 +7,10 @@ tags:
   - onboarding
   - getting-started
 type: guide
-status: active
+status: archived
 summary: How to use this team brain to share and discover knowledge.
+archived_at: '2026-03-30T22:51:21.380Z'
+archived_reason: retracted
 ---
 Welcome to your team's shared brain! Here's how to get started.
 
