@@ -2,13 +2,12 @@
 title: Olive Options
 author: vraspar
 created: '2026-03-30T22:26:54.780Z'
-updated: '2026-03-30T22:26:54.780Z'
+updated: '2026-03-30T22:55:44.646Z'
 tags:
-  - vscode
-  - docker
-  - node
-  - python
   - olive
+  - configuration
+  - optimization
+  - quantization
 type: guide
 status: active
 source_repo: olive
