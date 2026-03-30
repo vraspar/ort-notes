@@ -2,9 +2,12 @@
 title: ConstrainedDecoding
 author: vraspar
 created: '2026-03-30T22:37:04.045Z'
-updated: '2026-03-30T22:37:04.045Z'
+updated: '2026-03-30T22:56:14.866Z'
 tags:
-  - ort-genai
+  - genai
+  - constrained-decoding
+  - llm
+  - inference
 type: guide
 status: active
 source_repo: onnxruntime-genai
