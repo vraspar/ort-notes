@@ -5,7 +5,9 @@ created: '2026-03-30T22:32:03.542Z'
 updated: '2026-03-30T22:32:03.542Z'
 tags: []
 type: guide
-status: active
+status: archived
+archived_at: '2026-03-30T22:44:39.817Z'
+archived_reason: retracted
 ---
 # Rotator Cuff Repair Guide
 
@@ -23,4 +25,4 @@ The rotator cuff is a group of four muscles and tendons that stabilize the shoul
 - Complications: re-tear (5-15%), stiffness, infection
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[unreachable-json-test|Unreachable JSON Test]], [[json-test|JSON Test]], [[rotator-cuff-repair-guide|Rotator Cuff Repair Guide]], [[overview|Overview]]
+**Related:** [[rotator-cuff-repair-guide|Rotator Cuff Repair Guide]], [[mcp-push-test|MCP Push Test]], [[overview|Overview]]
