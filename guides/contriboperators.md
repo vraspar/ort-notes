@@ -2,11 +2,12 @@
 title: ContribOperators
 author: vraspar
 created: '2026-03-30T22:36:12.768Z'
-updated: '2026-03-30T22:36:12.768Z'
+updated: '2026-03-30T22:55:22.805Z'
 tags:
-  - node
-  - html
-  - ort
+  - onnxruntime
+  - operators
+  - quantization
+  - inference
 type: guide
 status: active
 source_repo: onnxruntime
