@@ -2,10 +2,14 @@
 title: Quantization
 author: vraspar
 created: '2026-03-30T22:26:54.708Z'
-updated: '2026-03-30T22:26:54.708Z'
+updated: '2026-03-30T22:55:03.128Z'
 tags:
-  - node
+  - quantization
+  - optimization
   - olive
+  - gptq
+  - awq
+  - rtn
 type: guide
 status: active
 source_repo: olive
