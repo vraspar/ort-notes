@@ -2,10 +2,12 @@
 title: Model Splitting
 author: vraspar
 created: '2026-03-30T22:26:54.701Z'
-updated: '2026-03-30T22:26:54.701Z'
+updated: '2026-03-30T22:56:02.512Z'
 tags:
-  - bash
+  - model-splitting
   - olive
+  - distributed
+  - optimization
 type: guide
 status: active
 source_repo: olive
