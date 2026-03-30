@@ -135,4 +135,4 @@ Easiest way to format the Java code is to run the gradlew task with `:spotlessAp
 Easiest way to format the C++ code is to use clang-format with /.clang-format.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[onnxruntime-genai-java-readme|java README]], [[package|PACKAGE]], [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[android-build-setup|Android Build Setup]], [[privacy-2|Privacy]]
+**Related:** [[onnxruntime-genai-java-readme|java README]], [[android-build-setup|Android Build Setup]], [[package|PACKAGE]], [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[privacy-2|Privacy]]

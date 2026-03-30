@@ -58,4 +58,4 @@ Therefore, our DLLEXPORT macro is like:
 It's well known C++ has [static initialization order problem](https://isocpp.org/wiki/faq/ctors#static-init-order). Dynamic linking can ensure that onnxruntime's static variables are already initialized before any onnxruntime's C API get called. The same thing applies to their destructors. It's good. But on the other side, static linking may have more usage restrictions on some of the APIs.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[privacy-2|Privacy]], [[server|Server]], [[faq|FAQ]], [[versioning|Versioning]], [[onnx-runtime-roadmap|ONNX Runtime Roadmap]]
+**Related:** [[privacy-2|Privacy]], [[server|Server]], [[faq|FAQ]], [[android-build-setup|Android Build Setup]], [[versioning|Versioning]]

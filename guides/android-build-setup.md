@@ -71,4 +71,4 @@ See src\java\src\test\android\app\build.gradle for example of how to manually sp
 The dependencies can also be added to an app using Android Studio.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[package|PACKAGE]], [[updating-java-bindings|Updating Java Bindings]], [[onnxruntime-genai-android-readme|android README]], [[onnxruntime-genai-java-readme|java README]], [[abi-dev-notes|ABI Dev Notes]]
+**Related:** [[updating-java-bindings|Updating Java Bindings]], [[onnxruntime-genai-android-readme|android README]], [[onnxruntime-genai-java-readme|java README]], [[package|PACKAGE]], [[abi-dev-notes|ABI Dev Notes]]

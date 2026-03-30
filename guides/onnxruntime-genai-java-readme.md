@@ -87,4 +87,4 @@ Cut-and-paste the function declaration from the auto-generated .h file to add th
 The Java API does not have any runtime or compile dependencies.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[updating-java-bindings|Updating Java Bindings]], [[package|PACKAGE]], [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[onnxruntime-genai-android-readme|android README]], [[android-build-setup|Android Build Setup]]
+**Related:** [[updating-java-bindings|Updating Java Bindings]], [[onnxruntime-genai-android-readme|android README]], [[android-build-setup|Android Build Setup]], [[package|PACKAGE]], [[onnxruntime-genai-modelvalidation-readme|model validation README]]

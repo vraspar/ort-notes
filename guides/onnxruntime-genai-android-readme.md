@@ -53,4 +53,4 @@ The build will generate two apks which is required to run the test application i
 After running the build script, the two apks will be installed on `ort_genai_android` emulator and it will automatically run the test application in an adb shell.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[onnxruntime-genai-java-readme|java README]], [[android-build-setup|Android Build Setup]], [[onnx-runtime-genai|ONNX Runtime GenAI]], [[package|PACKAGE]], [[onnxruntime-genai-modelvalidation-readme|model validation README]]
+**Related:** [[onnxruntime-genai-java-readme|java README]], [[android-build-setup|Android Build Setup]], [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[onnxruntime-genai-python-readme|python README]], [[debugging-notes-for-windows|Debugging Notes for Windows]]

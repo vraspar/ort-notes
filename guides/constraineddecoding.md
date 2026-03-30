@@ -23,4 +23,4 @@ We have integrated [LLGuidance](https://github.com/guidance-ai/llguidance) for c
 To ensure that the function/tool calling works correctly with constrained decoding, you need to modify your tokenizer.json file. For each model that has its own tool calling token, the tool calling token's `special` attribute needs to be set to true. For example, Phi-4 mini uses the <|tool_call|> and <|/tool_call|> tokens so you should set the `special` attribute for them as `true` inside `tokenizer.json`.
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[onnxruntime-genai-csharp-readme|csharp README]], [[onnxruntime-genai-c-readme|c README]]
+**Related:** [[onnxruntime-genai-csharp-readme|csharp README]], [[onnxruntime-genai-c-readme|c README]], [[onnx|ONNX]]

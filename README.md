@@ -9,10 +9,10 @@ A team knowledge base for Microsoft's ONNX ecosystem, powered by [Brain CLI](htt
 | Source | Entries | What It Covers |
 |--------|---------|----------------|
 | [Olive](https://github.com/microsoft/olive) | 45 | Model optimization, quantization (AWQ, GPTQ, RTN), CLI tools |
-| [ONNX Runtime](https://github.com/microsoft/onnxruntime) | 30 | Inference engine, execution providers, APIs, deployment |
-| [ONNX Runtime GenAI](https://github.com/microsoft/onnxruntime-genai) | 28 | LLM generation, constrained decoding, model building |
+| [ONNX Runtime](https://github.com/microsoft/onnxruntime) | 29 | Inference engine, execution providers, APIs, deployment |
+| [ONNX Runtime GenAI](https://github.com/microsoft/onnxruntime-genai) | 26 | LLM generation, constrained decoding, model building |
 
-**111 entries** from 3 repos — searchable, connected, and always fresh.
+**100 entries** from 3 repos — searchable, connected, and always fresh.
 
 ## Quick Start
 

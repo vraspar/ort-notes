@@ -76,4 +76,4 @@ and real-time factor (RTFx).
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[onnxruntime-genai-csharp-readme|csharp README]], [[package|PACKAGE]], [[onnxruntime-genai-java-readme|java README]], [[onnxruntime-genai-c-readme|c README]]
+**Related:** [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[onnxruntime-genai-csharp-readme|csharp README]], [[onnxruntime-genai-c-readme|c README]], [[package|PACKAGE]], [[onnxruntime-genai-java-readme|java README]]

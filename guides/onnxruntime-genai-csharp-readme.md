@@ -103,4 +103,4 @@ Here are some examples of how you can run the C# examples with function/tool cal
 ```
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[onnxruntime-genai-nemotronspeech-readme|NemotronSpeech README]], [[onnxruntime-genai-c-readme|c README]], [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[run-the-phi-3-models-with-onnx-runtime-genai|Run the Phi-3 models with ONNX Runtime GenAI]], [[onnx-runtime-genai|ONNX Runtime GenAI]]
+**Related:** [[onnxruntime-genai-nemotronspeech-readme|NemotronSpeech README]], [[onnxruntime-genai-c-readme|c README]], [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[run-the-phi-3-models-with-onnx-runtime-genai|Run the Phi-3 models with ONNX Runtime GenAI]], [[constraineddecoding|ConstrainedDecoding]]

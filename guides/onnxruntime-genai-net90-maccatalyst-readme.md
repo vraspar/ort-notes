@@ -16,4 +16,4 @@ source_content_hash: 5917d74a31c13e4f08261a5e8a69ae2098683c52db7d12d5b940cf736f8
 We only add a blank file for the target framework folder here and thus will be including blank TFM under build/ and buildTransitive/ in the Nuget package. The reason is for Mac Catalyst platform, it directly will resolve the xcframework from the runtimes/native/ios folder based on this [RuntimeidentifierGraph](https://github.com/dotnet/sdk/blob/main/src/Layout/redist/PortableRuntimeIdentifierGraph.json#L300-L304)
 ---
 <!-- brain:links (auto-generated, do not edit) -->
-**Related:** [[package|PACKAGE]], [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[onnxruntime-genai-python-readme|python README]], [[onnxruntime-genai-models-readme|models README]], [[onnxruntime-genai-android-readme|android README]]
+**Related:** [[onnxruntime-genai-modelvalidation-readme|model validation README]], [[onnxruntime-genai-python-readme|python README]], [[onnxruntime-genai-models-readme|models README]], [[onnxruntime-genai-android-readme|android README]], [[package|PACKAGE]]
