@@ -13,7 +13,9 @@ tags:
   - custom-bridges
   - docker
 type: guide
-status: active
+status: archived
+archived_at: '2026-04-02T20:29:16.123Z'
+archived_reason: retracted
 ---
 # Docker Container Networking
 
@@ -33,3 +35,6 @@ docker run --network my-network --name api node:18
 - Port mapping with -p flag
 - DNS resolution between containers
 - Network isolation with custom bridges
+---
+<!-- brain:links (auto-generated, do not edit) -->
+**Related:** [[overview|Overview]]
