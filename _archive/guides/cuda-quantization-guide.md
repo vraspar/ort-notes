@@ -13,7 +13,9 @@ tags:
   - quantization
   - guide
 type: guide
-status: active
+status: archived
+archived_at: '2026-04-02T20:21:39.633Z'
+archived_reason: retracted
 ---
 # CUDA Quantization Guide
 
