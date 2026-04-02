@@ -13,6 +13,8 @@ tags:
   - inference
   - cudaexecutionprovider
 type: guide
-status: active
+status: archived
+archived_at: '2026-04-02T20:26:40.577Z'
+archived_reason: retracted
 ---
 Testing ONNX Runtime with CUDAExecutionProvider for transformer inference.
