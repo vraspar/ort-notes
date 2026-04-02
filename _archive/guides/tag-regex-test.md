@@ -11,7 +11,9 @@ tags:
   - model
   - optimization
 type: guide
-status: active
+status: archived
+archived_at: '2026-04-02T20:37:43.867Z'
+archived_reason: retracted
 ---
 # Model Optimization
 
