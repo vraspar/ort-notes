@@ -13,7 +13,9 @@ tags:
   - handle-user-input
   - result-data
 type: guide
-status: active
+status: archived
+archived_at: '2026-04-02T20:37:49.762Z'
+archived_reason: retracted
 ---
 # JavaScript Patterns
 
